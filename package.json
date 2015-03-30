@@ -1,0 +1,22 @@
+{
+  "name": "bcx-templar",
+  "version": "0.0.1",
+  "description": "Template processing extension to read templates from the disk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:barcodex/bcx-templar.git"
+  },
+  "keywords": [
+    "templating"
+  ],
+  "author": "Anvarzon Zurajev <barcodex@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barcodex/bcx-templar/issues"
+  },
+  "homepage": "https://github.com/barcodex/bcx-templar"
+}
