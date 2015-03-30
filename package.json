@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/barcodex/bcx-templar/issues"
   },
+  "dependencies": {
+    "bcx-temple": "latest"
+  }
   "homepage": "https://github.com/barcodex/bcx-templar"
 }
