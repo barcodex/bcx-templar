@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "bcx-temple": "latest"
-  }
+  },
   "homepage": "https://github.com/barcodex/bcx-templar"
 }

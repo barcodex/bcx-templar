@@ -1,4 +1,7 @@
+
 var fs = require('fs');
+var os = require('os');
+
 var t = require('bcx-temple');
 
 exports.getTemplate = getTemplate;
